@@ -1,0 +1,1 @@
+meteor reset && meteor run android-device --mobile-server http://192.168.0.176:3000 --verbose
